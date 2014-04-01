@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "Baidu-Maps-iOS-SDK"
-  s.version      = "2.1.1"
+  s.version      = "2.2.0"
   s.summary      = "Baidu Maps SDK for iOS"
 
   s.description  = <<-DESC
@@ -26,7 +26,7 @@ Pod::Spec.new do |s|
 
   s.source       = { 
 	:git => "https://github.com/Tangdixi/Baidu-Maps-iOS-SDK.git", 
-	:tag => "v2.1.1"
+	:tag => "v2.2.0"
   }
 
   s.source_files  = 'Classes/*.h'
