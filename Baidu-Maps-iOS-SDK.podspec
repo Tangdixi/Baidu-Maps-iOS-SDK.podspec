@@ -1,16 +1,14 @@
 Pod::Spec.new do |s|
 
   s.name         = "Baidu-Maps-iOS-SDK"
-  s.version      = "2.2.0"
+  s.version      = "2.2.1"
   s.summary      = "Baidu Maps SDK for iOS"
 
   s.description  = <<-DESC
-                   A longer description of Baidu-Maps-iOS-SDK in Markdown format.
-
-                   * Think: Why did you write this? What is the focus? What does it do?
-                   * CocoaPods will be using this to generate tags, and improve search results.
-                   * Try to keep it short, snappy and to the point.
-                   * Finally, don't worry about the indent, CocoaPods strips it!
+		   Baidu Maps iOS SDK is a set of APIs, base on iOS 4.3 or later. 
+		   Offer some basic API for map presentation, also provides POI search
+		   , path planning, map anotation, offline maps, location and powerful
+		   LBS feature.  
                    DESC
 
   s.homepage     = "http://developer.baidu.com/map/sdk-ios.htm"
@@ -26,7 +24,7 @@ Pod::Spec.new do |s|
 
   s.source       = { 
 	:git => "https://github.com/Tangdixi/Baidu-Maps-iOS-SDK.git", 
-	:tag => "v2.2.0"
+	:tag => "v2.2.1"
   }
 
   s.source_files  = 'Classes/*.h'
