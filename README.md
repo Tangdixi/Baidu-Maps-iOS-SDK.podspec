@@ -7,4 +7,4 @@ Use for CocoaPods
 
 More detail about Baidu-Maps-iOS-SDK [here](http://developer.baidu.com/map/sdkiosdev-1.htm).
 
-Last update v2.2.0
+Last update v2.2.1
